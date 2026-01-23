@@ -66,6 +66,13 @@
   ],
   "outputs": [
     {
+      "id": "mariorossi-bouncingBall-c96877-vhwyg9",
+      "toolId": "mariorossi-bouncingBall-c96877",
+      "toolUrl": "tools/mariorossi-bouncingBall-c96877.js",
+      "url": "outputs/mariorossi-bouncingBall-c96877-vhwyg9.png",
+      "createdAt": "2026-01-23T00:02:30.849Z"
+    },
+    {
       "id": "bouncingBall-dc69a0",
       "toolId": "mariorossi-bouncingBall-c96877",
       "toolUrl": "tools/mariorossi-bouncingBall-c96877.js",
